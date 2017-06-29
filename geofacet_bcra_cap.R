@@ -59,7 +59,7 @@ ggplot(cap_bcra_state_losses_pct, aes(variable, value, fill = variable)) +
   scale_y_continuous(limits = c(0,50), breaks = c(10, 20, 30, 40, 50)) +
   coord_flip() +
   theme_bw() +
-  labs(title = "Percent Loss in Health Ins Coverage for 2026, by State and Type",
+  labs(title = "Percent Loss in Medicaid Coverage for 2026, by State and Type",
        caption = "Data Source: Center for American Progress & MACPAC.
        ID, LA, RI inestimable due to unreliable MACPAC data on total enrollees.
        Visualization by @NateApathy",
