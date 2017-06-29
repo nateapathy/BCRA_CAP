@@ -1,6 +1,6 @@
 # sources: Center for American Progress State-wide Medicaid insurance coverage losses for 2026
 # CAP link: https://www.americanprogress.org/issues/healthcare/news/2017/06/27/435112/coverage-losses-state-senate-health-care-repeal-bill/
-# MACPAC full enrollment numbers for fiscal year 2013: https://www.macpac.gov/publication/medicaid-full-year-equivalent-enrollment-by-state-and-eligibility-group-2/
+# MACPAC full enrollment numbers for fiscal yr 2013: https://www.macpac.gov/publication/medicaid-full-year-equivalent-enrollment-by-state-and-eligibility-group-2/
 # Google docs version of CAP spreadsheet: https://docs.google.com/spreadsheets/d/1OzV8bQ5YDCd-1MIHdea5jLGgYr-JFC8VZU66FZYM2ZQ/edit?usp=sharing
 # Geofacet vingette: https://hafen.github.io/geofacet/
 # Geofacet Github repo: https://github.com/hafen/geofacet
