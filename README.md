@@ -13,4 +13,6 @@ Links to all content, including a google sheet with all of the data, can be foun
 
 Link to CAP blog post: https://www.americanprogress.org/issues/healthcare/news/2017/06/27/435112/coverage-losses-state-senate-health-care-repeal-bill/
 
+Link to my writeup of the visualization steps (prose version of annotated R script): http://www.nateapathy.com/blog/capbcra
+
 ![Visualization of coverage losses](medicaid_coverage_losses.png)
