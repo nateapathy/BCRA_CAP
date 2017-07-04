@@ -12,3 +12,5 @@ Note: CAP used the 2013 MACPAC enrollment data in their projections, so I felt i
 Links to all content, including a google sheet with all of the data, can be found in the R script in the header.
 
 Link to CAP blog post: https://www.americanprogress.org/issues/healthcare/news/2017/06/27/435112/coverage-losses-state-senate-health-care-repeal-bill/
+
+![Visualization of coverage losses](medicaid_coverage_losses.png)
